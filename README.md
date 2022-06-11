@@ -3,9 +3,9 @@
 # Joeri Abbo
 ### I'm a backend developer with a big intressets in DevOps.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joeri-abbo&count_private=true)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=joeri-abbo)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joeri-abbo&count_private=true&theme=radical)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=joeri-abbo&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeri-abbo&layout=compact&count_private=true&langs_count=10&count_private=true&show_icons=true&theme=radical)
 
 ### Some of the languages I use daily.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -93,6 +93,29 @@
 ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)
 
 
+# Projects / packages
 
+## Tools
+[![linux-updater](https://github-readme-stats.vercel.app/api/pin/?username=joeri-abbo&repo=linux-updater&theme=radical)]([https://github.com/Joeri-Abbo/linux-updater](https://github.com/Joeri-Abbo/linux-updater))
+[![Slack ip](https://github-readme-stats.vercel.app/api/pin/?username=joeri-abbo&repo=slack-ip&theme=radical)]([https://github.com/Joeri-Abbo/slack-ip](https://github.com/Joeri-Abbo/slack-ip))
+
+## Php packages
+[![cloudflare-dynamic-record-updater](https://github-readme-stats.vercel.app/api/pin/?username=joeri-abbo&repo=cloudflare-dynamic-record-updater&theme=radical)]([https://github.com/Joeri-Abbo/cloudflare-dynamic-record-updater](https://github.com/Joeri-Abbo/cloudflare-dynamic-record-updater))
+
+## Laravel
+[![laravel-boilerplate](https://github-readme-stats.vercel.app/api/pin/?username=joeri-abbo&repo=laravel-boilerplate&theme=radical)]([https://github.com/Joeri-Abbo/laravel-boilerplate](https://github.com/Joeri-Abbo/laravel-boilerplate))
+
+### Laravel packages
+[![livewire-search](https://github-readme-stats.vercel.app/api/pin/?username=joeri-abbo&repo=livewire-search&theme=radical)]([https://github.com/Joeri-Abbo/livewire-search](https://github.com/Joeri-Abbo/livewire-search))
+[![smart-validation](https://github-readme-stats.vercel.app/api/pin/?username=joeri-abbo&repo=smart-validation&theme=radical)]([https://github.com/Joeri-Abbo/smart-validation](https://github.com/Joeri-Abbo/smart-validation))
+[![Laravel-easy-translations](https://github-readme-stats.vercel.app/api/pin/?username=joeri-abbo&repo=laravel-easy-translations&theme=radical)]([https://github.com/Joeri-Abbo/laravel-easy-translations](https://github.com/Joeri-Abbo/laravel-easy-translations))
+
+## Wordpress Plugins
+[![stunt-double](https://github-readme-stats.vercel.app/api/pin/?username=joeri-abbo&repo=stunt-double&theme=radical)]([https://github.com/Joeri-Abbo/stunt-double](https://github.com/Joeri-Abbo/stunt-double))
+[![acf-sync](https://github-readme-stats.vercel.app/api/pin/?username=joeri-abbo&repo=acf-sync&theme=radical)]([https://github.com/Joeri-Abbo/acf-sync](https://github.com/Joeri-Abbo/acf-sync))
+[![ACF-Are-You-Sure](https://github-readme-stats.vercel.app/api/pin/?username=joeri-abbo&repo=ACF-Are-You-Sure&theme=radical)]([https://github.com/Joeri-Abbo/ACF-Are-You-Sure](https://github.com/Joeri-Abbo/ACF-Are-You-Sure))
+[![wonolog-simpliy-history](https://github-readme-stats.vercel.app/api/pin/?username=joeri-abbo&repo=wonolog-simpliy-history&theme=radical)]([https://github.com/Joeri-Abbo/wonolog-simpliy-history](https://github.com/Joeri-Abbo/wonolog-simpliy-history))
+[![starship](https://github-readme-stats.vercel.app/api/pin/?username=joeri-abbo&repo=starship&theme=radical)]([https://github.com/Joeri-Abbo/starship](https://github.com/Joeri-Abbo/starship))
+[![ACF CLI](https://github-readme-stats.vercel.app/api/pin/?username=joeri-abbo&repo=acf-plus&theme=radical)]([https://github.com/Joeri-Abbo/acf-plus](https://github.com/Joeri-Abbo/acf-plus))
 
 
