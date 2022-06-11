@@ -6,6 +6,8 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joeri-abbo&count_private=true&theme=radical)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=joeri-abbo&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeri-abbo&layout=compact&count_private=true&langs_count=10&count_private=true&show_icons=true&theme=radical)
+[![Joeri Abbo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joeriabbo&theme=radical)]
+
 
 ### Some of the languages I use daily.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
