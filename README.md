@@ -111,6 +111,7 @@
 [![livewire-search](https://github-readme-stats.vercel.app/api/pin/?username=joeri-abbo&repo=livewire-search&theme=radical)]([https://github.com/Joeri-Abbo/livewire-search](https://github.com/Joeri-Abbo/livewire-search))
 [![smart-validation](https://github-readme-stats.vercel.app/api/pin/?username=joeri-abbo&repo=smart-validation&theme=radical)]([https://github.com/Joeri-Abbo/smart-validation](https://github.com/Joeri-Abbo/smart-validation))
 [![Laravel-easy-translations](https://github-readme-stats.vercel.app/api/pin/?username=joeri-abbo&repo=laravel-easy-translations&theme=radical)]([https://github.com/Joeri-Abbo/laravel-easy-translations](https://github.com/Joeri-Abbo/laravel-easy-translations))
+[![laravel-slack](https://github-readme-stats.vercel.app/api/pin/?username=joeri-abbo&repo=laravel-slack&theme=radical)]([https://github.com/Joeri-Abbo/laravel-slack](https://github.com/Joeri-Abbo/laravel-slack))
 
 ## Wordpress Plugins
 [![stunt-double](https://github-readme-stats.vercel.app/api/pin/?username=joeri-abbo&repo=stunt-double&theme=radical)]([https://github.com/Joeri-Abbo/stunt-double](https://github.com/Joeri-Abbo/stunt-double))
