@@ -6,7 +6,9 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joeri-abbo&count_private=true&theme=radical)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=joeri-abbo&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeri-abbo&layout=compact&count_private=true&langs_count=10&count_private=true&show_icons=true&theme=radical)
+<br>
 [![wakatime](https://wakatime.com/badge/user/d35128ad-2c73-486b-ac51-2d99ca9ee235.svg)](https://wakatime.com/@d35128ad-2c73-486b-ac51-2d99ca9ee235)
+<br>
 ![Joeri Abbo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joeriabbo&theme=radical)
 
 
