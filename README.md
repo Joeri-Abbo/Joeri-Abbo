@@ -11,7 +11,7 @@
 <br>
 ![Joeri Abbo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joeriabbo&theme=radical)
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Joeri-Abbo)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Joeri-Abbo&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### Some of the languages I use daily.
