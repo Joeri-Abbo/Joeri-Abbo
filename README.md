@@ -10,6 +10,8 @@
 [![wakatime](https://wakatime.com/badge/user/d35128ad-2c73-486b-ac51-2d99ca9ee235.svg)](https://wakatime.com/@d35128ad-2c73-486b-ac51-2d99ca9ee235)
 <br>
 ![Joeri Abbo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joeriabbo&theme=radical)
+<br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Joeri-Abbo)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### Some of the languages I use daily.
