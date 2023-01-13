@@ -1,7 +1,7 @@
 <p>Hello, my name is</p>
 
 # Joeri Abbo
-### I'm a backend developer with a big intressets in DevOps.
+### I'm a backend developer and a DevOps engineer.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joeri-abbo&count_private=true&theme=radical)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=joeri-abbo&theme=radical)
