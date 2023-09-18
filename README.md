@@ -3,6 +3,8 @@
 # Joeri Abbo
 ### I'm a backend developer and a DevOps engineer.
 
+![](https://komarev.com/ghpvc/?username=Joeri-Abbo)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joeri-abbo&count_private=true&theme=radical)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=joeri-abbo&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeri-abbo&layout=compact&count_private=true&langs_count=10&count_private=true&show_icons=true&theme=radical)
